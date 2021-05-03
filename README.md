@@ -1,4 +1,4 @@
-# App on aws amplify
+# App on AWS Amplify
 
 Link [here](https://dev5466.d7xxujhkso3d9.amplifyapp.com/).
 
